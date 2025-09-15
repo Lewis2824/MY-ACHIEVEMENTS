@@ -14,8 +14,7 @@ This repository showcases my academic and research achievements during Senior Hi
 ---
 
 ## 📂 Repository Contents
-- **Certificates/** → Scanned certificates of awards and recognitions.  
-- **Screenshots/** → Photos from events and presentations.  
+- **Certificates/** → Scanned certificates of awards and  
 
 ---
 
